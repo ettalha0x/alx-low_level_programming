@@ -4,6 +4,7 @@
 * Owned by Ettalha0x
 * @s: string to count length
 * @i: index & counter
+* Description: this will return the length of a string
 * Return 0 is success
 */
 int _strlen(char *s)
@@ -12,9 +13,7 @@ int _strlen(char *s)
 
 	i = 0;
 	while(s[i] != '\0')
-	{
-		i++;	
-	}
+		i++;
 	return (i);
 }
 
