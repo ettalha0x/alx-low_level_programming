@@ -2,6 +2,7 @@
 /**
 * print_rev - prints a string, in reverse, followed by a new line.
 * Owned by Ettalha0x
+* @s: string to print reversed
 * Description: prints a string, in reverse, followed by a new line.
 */
 void print_rev(char *s)
