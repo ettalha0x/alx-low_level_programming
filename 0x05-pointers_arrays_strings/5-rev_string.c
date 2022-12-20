@@ -1,9 +1,8 @@
 #include "main.h"
 /**
-* _puts - reverse a string
+* rev_string - reverse a string
 * Owned by Ettalha0x
 * @s: string to revers
-* @i: index & counter
 * Description: reverse a string
 */
 void rev_string(char *s)
